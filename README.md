@@ -122,9 +122,3 @@ Columns:
 
 ---
 
-## ✅ Key Insights (example from PDF)
-
-- Delivery-related issues account for **~40% of total complaints**.  
-- **Average Resolution Time** is higher in Tier-2 cities compared to Tier-1.  
-- **Escalation Rate** is h
-
