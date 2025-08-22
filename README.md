@@ -31,6 +31,8 @@ Provide a decision-support dashboard for Flipkart’s customer service team to:
 ## 📊 Report Pages & Insights
 
 ### 0) **Overview Dashboard**
+"https://image2url.com/images/1755846535485-43f7461e-7f93-4d8d-be63-93bd96b15738.png"
+
 - KPIs: **Avg CSAT**, **Avg Resolution Rate**, **Avg First Response Time (FRT)**, **Avg Handling Time (AHT)**.  
 - Trendline of **customer satisfaction over time**.  
 - **Bar chart**: Complaints by Category (Delivery, Payment, Returns, etc.).  
@@ -63,7 +65,7 @@ Provide a decision-support dashboard for Flipkart’s customer service team to:
 
 ---
 
-## 🧱 Data Model (recommended)
+## 🧱 Data Model
 
 **Fact table**: `FactCustomerService`  
 Columns:  
